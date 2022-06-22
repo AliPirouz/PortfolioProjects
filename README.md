@@ -1,2 +1,2 @@
 # PortfolioProjects
-Projects I've done to show off my skills
+Data Analytic Projects I've done for my portfolio
